@@ -23,5 +23,4 @@ gradle.settingsEvaluated {
 }
 
 rootProject.name = 'hadoop'
-include 'scala'
 
